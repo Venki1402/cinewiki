@@ -79,38 +79,37 @@ cinewiki/
 ## Screenshots
 
 ### Home
+![image2](https://github.com/user-attachments/assets/da20ca67-7ca9-4c21-8656-49c3d2e16e78)
 
-```
-[Screenshot of movie creation form]
-``` 
 
 ### Movie Management
 - **Create Movie**
-```
-[Screenshot of movie creation form]
-``` 
+![image4](https://github.com/user-attachments/assets/10ff0962-ee27-44e2-a56a-c814f4170cc7)
+
 - **List Movies**
-```
-[Screenshot of movies list page]
-``` 
+![image8](https://github.com/user-attachments/assets/99dd002e-3efa-4ce5-9692-0f0145a09eca)
+
+- **Detail View**
+![image6](https://github.com/user-attachments/assets/393c998d-6cdf-4ad5-ab3c-94036729b1b6)
+
 - **Edit Movie**
-```
-[Screenshot of movie edit form]
-``` 
+<img width="1552" alt="image9" src="https://github.com/user-attachments/assets/20d7eb5d-31a7-4143-a40e-2efd846077eb" />
+
 
 ### Director Management
 - **Create Director**
-```
-[Screenshot of director creation form]
-``` 
+![image1](https://github.com/user-attachments/assets/b1de0216-6e54-494b-84f0-2f992a1cb0e3)
+
 - **List Directors**
-```
-[Screenshot of directors list page]
-``` 
+![image7](https://github.com/user-attachments/assets/6eab2a81-bc20-4026-b08c-4c094431a42e)
+
+- **Detail View**
+![image5](https://github.com/user-attachments/assets/cfcece7b-89ad-45b2-b570-7845ec3530c9)
+
 - **Edit Director**
-```
-[Screenshot of director edit form]
-``` 
+<img width="1552" alt="image10" src="https://github.com/user-attachments/assets/10db0d5e-ad47-43f1-88dc-0b1fc42d846d" />
+
+
 
 ## Tests
 
